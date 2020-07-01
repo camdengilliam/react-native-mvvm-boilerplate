@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "entryPoint": "./src/App.js",
+    "name": "react-native-boilerplate-mvvm",
+    "slug": "react-native-boilerplate-mvvm",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "scheme": "myapp",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fortyau.react-native-boilerplate-mvvm"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "android": {
+      "package": "com.fortyau.react-native-boilerplate-mvvm"
+    }
+  }
+}
